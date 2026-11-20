@@ -1,6 +1,4 @@
-// Flashcards for one lesson. Edit the text between the quotes; keep the punctuation around it.
-// es = Spanish, en = English, cat = the group it belongs to, audio = file name inside this lesson's audio folder
-// (leave audio as "" if a card has no recording).
+// Built by build_lesson.py from the lesson content file. Do not edit by hand: change the content file and rebuild.
 window.LESSON = {
   label: "Lesson 1.1",
   title: "¡Hola! Mucho gusto.",
@@ -14,6 +12,7 @@ window.LESSON = {
     { es: "Mucho gusto", en: "Nice to meet you", cat: "Introductions", audio: "mucho-gusto.mp3" },
     { es: "Igualmente", en: "Likewise", cat: "Introductions", audio: "igualmente.mp3" },
     { es: "¿Cómo estás?", en: "How are you? (informal)", cat: "How are you?", audio: "como-estas.mp3" },
+    { es: "Estoy bien", en: "I'm fine", cat: "How are you?", audio: "estoy-bien.mp3" },
     { es: "Muy bien", en: "Very well", cat: "How are you?", audio: "muy-bien.mp3" },
     { es: "Bien, gracias", en: "Well, thanks", cat: "How are you?", audio: "bien-gracias.mp3" },
     { es: "Más o menos", en: "So-so", cat: "How are you?", audio: "mas-o-menos.mp3" },

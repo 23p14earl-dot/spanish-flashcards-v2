@@ -33,6 +33,6 @@ window.LESSON = {
     { es: "¿Cómo se escribe tu nombre?", en: "How do you spell your first name?", cat: "Spelling expressions", audio: "como-se-escribe-tu-nombre.mp3" },
     { es: "¿Cómo se escribe tu apellido?", en: "How do you spell your surname?", cat: "Spelling expressions", audio: "como-se-escribe-tu-apellido.mp3" },
     { es: "Se escribe…", en: "It's spelled…", cat: "Spelling expressions", audio: "se-escribe.mp3" },
-    { es: "¿Me lo repites, por favor?", en: "Could you repeat that, please?", cat: "Spelling expressions", audio: "me-lo-repites.mp3" },
+    { es: "Otra vez, por favor.", en: "Again, please.", cat: "Spelling expressions", audio: "otra-vez.mp3" },
   ]
 };
